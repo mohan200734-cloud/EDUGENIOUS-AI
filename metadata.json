@@ -1,0 +1,5 @@
+{
+  "name": "EduGenius AI",
+  "description": "An AI-powered learning assistant that generates detailed explanations and interactive quizzes from your PDF documents. Upload a file to get started.",
+  "requestFramePermissions": []
+}
